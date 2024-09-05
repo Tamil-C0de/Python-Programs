@@ -1,0 +1,7 @@
+Database -> Collection of Data
+SQL -> Structured Query Language
+Query -> Command
+
+Database Engines -> Oracle, MySQL, MariaDB, PostgreSQL
+
+CRUD -> Create   Read   Update   Delete
