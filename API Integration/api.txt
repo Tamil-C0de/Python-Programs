@@ -1,0 +1,14 @@
+API -> Application Programming Interface
+requests -> HTTP Req / Res
+
+REST API
+
+HTTP -> Hypertext Transfer Protocol   / request-response protocol
+HTTP Request     HTTP Response
+
+HTTP Methods
+GET         POST            PUT         DELETE
+
+Endpoints -> /users, /posts
+
+HTTP Status Codes
