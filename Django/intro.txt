@@ -1,0 +1,13 @@
+Django Framework -> DB, Authentication, Routing
+Security -> SQL Injection, XSS, Clickjacking
+Built-in Admin Interface
+
+Django -> MVT(Model-View-Template)
+Model -> Database -> Data management
+View -> Business logic , Model <-> View <-> Template
+Template -> Presentation layer (HTML, CSS)
+
+Django Installation
+Virtual Environment -> pip install virtualenv
+Create an Environment -> virtualenv environment_name
+Activate -> environment_name\Scripts\activate
