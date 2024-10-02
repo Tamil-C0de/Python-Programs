@@ -1,0 +1,16 @@
+HTML -> HyperText Markup Language
+To Create a Structure of a webpage.
+
+CSS -> Cascading StyleSheet
+
+Tags ->    <opening tag>        </closing tag>
+
+HTML 5
+
+Methods ->    GET      POST         PUT         DELETE
+HTTP -> HyperText Transfer Protocol
+HTTP Status Code
+
+
+3 Types -> Inline StyleSheet, Internal StyleSheet, External StyleSheet
+id          class

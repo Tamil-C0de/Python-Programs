@@ -1,0 +1,29 @@
+/* 
+    Element Selector
+    Class Selector
+    Id Selector
+*/
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: coral;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: red;
+}
+
+.para1 {
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para2 {
+    font-size: 25px;
+}
+
+#para3 {
+    text-align: center;
+}

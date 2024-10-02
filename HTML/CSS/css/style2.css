@@ -1,0 +1,70 @@
+/*body {
+     background-color: #A799B7; */
+/* background: linear-gradient(to left, #ff1b6b, #45caff); */
+/* background-image: url('https://image-processor-storage.s3.us-west-2.amazonaws.com/images/3cf61c1011912a2173ea4dfa260f1108/halo-of-neon-ring-illuminated-in-the-stunning-landscape-of-yosemite.jpg');
+    background-size: cover;
+    background-position: center; */
+/* background-image: url(https://thumbs.dreamstime.com/b/young-conceptual-image-large-stone-shape-human-brain-conceptual-image-large-stone-shape-110748113.jpg);
+    background-repeat: no-repeat; 
+}*/
+/* 
+* {
+    margin: 0;
+    padding: 0;
+} */
+
+h2 {
+    /* margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 15px;
+    margin-bottom: 10px; */
+    margin: 20px 30px 15px 20px;
+    /* border-width: 3px;
+    border-color: crimson;
+    border-style: solid; */
+    border: 2px solid burlywood;
+    border-radius: 8px;
+    /* border-top-left-radius: 10px; */
+    padding: 15px;
+}
+
+.relative {
+    font-weight: bold;
+    border: 2px solid green;
+    width: 40%;
+    position: relative;
+    left: 150px;
+    /* top: 100px; */
+}
+
+.parent {
+    border: 2px solid red;
+    padding: 10px;
+    position: relative;
+    height: 200px;
+}
+
+.absolute {
+    font-weight: bold;
+    border: 2px solid greenyellow;
+    width: 40%;
+    position: absolute;
+    right: 0;
+}
+
+.fixed {
+    font-weight: bold;
+    border: 2px solid darkviolet;
+    width: 40%;
+    position: fixed;
+    right: 0;
+    bottom: 20px;
+}
+
+.sticky {
+    font-weight: bold;
+    border: 2px solid darkviolet;
+    width: 40%;
+    position: sticky;
+    top: 10px;
+}
